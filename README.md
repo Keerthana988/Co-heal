@@ -5,6 +5,7 @@
 2. save the repository in C:\xampp\htdocs
 
 ##Setting up databases FOR TABLE
+
 2. Create a database with name 'table' and a table named 'user' with 8 coloumns as following:
   1. userid  int(11)
   2. date     date
@@ -16,6 +17,7 @@
   8. dt   datetime
  
  ##Setting up databases FOR LOGINSYSTEM
+ 
  3. Create a database with name 'users' and a table named 'users' with 4 coloumns as following:
     1.slno. int(11)
     2.username text
