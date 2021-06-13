@@ -2,7 +2,7 @@
 
 Take a look of our website : https://devfolio.co/submissions/coheal-a1f2
 
-Overview
+OVERVIEW :
 Co-heal is a website which provides all the information regaurading Covid home isolation system and people can also track their health status on Daily basis.
 
 ##Steps to view the project
