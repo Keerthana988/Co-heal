@@ -23,12 +23,12 @@ Co-heal is a website that provides all the information regarding the    Covid ho
   7. breathing text
   8. dt   datetime
  
- ##Setting up databases FOR LOGINSYSTEM
+ ## Setting up databases FOR LOGINSYSTEM
  4. Create a database with name 'users' and a table named 'users' with 4 coloumns as following:
-    1.slno. int(11)
-    2.username text
-    3.password varchar(11)
-    4.dt  datetime
+ 1.slno. int(11)
+ 2.username text
+ 3.password varchar(11)
+ 4.dt  datetime
 
   5. Now run the link http://localhost/co-heal/home/home.html in your browser
   
