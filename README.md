@@ -4,15 +4,15 @@ Take a look of our website : https://devfolio.co/submissions/coheal-a1f2
 
 
 
-##OVERVIEW :
+## OVERVIEW :
 Co-heal is a website that provides all the information regarding the    Covid home isolation system and people can also track their health status on daily basis.
 
 
-##Steps to view the project
+## Steps to view the project
 1. Clone the repository through vs code
 2. save the repository in C:\xampp\htdocs
 
-##Setting up databases FOR TABLE
+## Setting up databases FOR TABLE
 2. Create a database with name 'table' and a table named 'user' with 8 coloumns as following:
   1. userid  int(11)
   2. date     date
@@ -23,7 +23,7 @@ Co-heal is a website that provides all the information regarding the    Covid ho
   7. breathing text
   8. dt   datetime
  
- ##Setting up databases FOR LOGINSYSTEM
+ ## Setting up databases FOR LOGINSYSTEM
  3. Create a database with name 'users' and a table named 'users' with 4 coloumns as following:
     1.slno. int(11)
     2.username text
