@@ -1,6 +1,6 @@
 # Co-heal
 
-## Take a look of our website :# https://devfolio.co/submissions/coheal-a1f2
+## Take a look of our website : https://devfolio.co/submissions/coheal-a1f2
 
 
 
@@ -24,7 +24,7 @@ Co-heal is a website that provides all the information regarding the    Covid ho
   8. dt   datetime
  
  ## Setting up databases FOR LOGINSYSTEM
- 4. Create a database with name 'users' and a table named 'users' with 4 coloumns as following:
+4. Create a database with name 'users' and a table named 'users' with 4 coloumns as following:
  1.slno. int(11)
  2.username text
  3.password varchar(11)
