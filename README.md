@@ -1,6 +1,6 @@
 # Co-heal
 
-Take a look of our website : https://devfolio.co/submissions/coheal-a1f2
+## Take a look of our website :# https://devfolio.co/submissions/coheal-a1f2
 
 
 
